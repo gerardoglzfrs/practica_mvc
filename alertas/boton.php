@@ -1,0 +1,1 @@
+<a style="float: right; margin-top:10px; padding-left:15px; padding-right:15px;" class="btn btn-default" href="view/logout.php">Logout</a>
